@@ -1,0 +1,119 @@
+{
+  "d05f64510da0": {
+    "device_id": "d05f64510da0",
+    "asset_name": "WC - 10",
+    "asset_type": "Wheelchair",
+    "asset_id": "HSP-1101",
+    "department": "OP",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f6451fdce": {
+    "device_id": "d05f6451fdce",
+    "asset_name": "WC 11",
+    "asset_type": "Wheelchair",
+    "asset_id": "102",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f6451ff39": {
+    "device_id": "d05f6451ff39",
+    "asset_name": "WC 12",
+    "asset_type": "",
+    "asset_id": "102",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "scheduled"
+  },
+  "d05f6451ff3c": {
+    "device_id": "d05f6451ff3c",
+    "asset_name": "wc 13",
+    "asset_type": "Infusion Pump",
+    "asset_id": "",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "overdue"
+  },
+  "d05f64510e32": {
+    "device_id": "d05f64510e32",
+    "asset_name": "Tag ID",
+    "asset_type": "Other",
+    "asset_id": "1001",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f6451fe05": {
+    "device_id": "d05f6451fe05",
+    "asset_name": "0101",
+    "asset_type": "Wheelchair",
+    "asset_id": "SJ1011",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f6451fd58": {
+    "device_id": "d05f6451fd58",
+    "asset_name": "SJ24 - 101",
+    "asset_type": "Wheelchair",
+    "asset_id": "12",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f64510da5": {
+    "device_id": "d05f64510da5",
+    "asset_name": "Hard tag",
+    "asset_type": "Syringe Pump",
+    "asset_id": "",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f6451ffaf": {
+    "device_id": "d05f6451ffaf",
+    "asset_name": "A10",
+    "asset_type": "Wheelchair",
+    "asset_id": "101",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f645214c9": {
+    "device_id": "d05f645214c9",
+    "asset_name": "A101",
+    "asset_type": "",
+    "asset_id": "101",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "ff4e71a34e27": {
+    "device_id": "ff4e71a34e27",
+    "asset_name": "A101",
+    "asset_type": "Wheelchair",
+    "asset_id": "101",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f64510d9a": {
+    "device_id": "d05f64510d9a",
+    "asset_name": "101",
+    "asset_type": "Wheelchair",
+    "asset_id": "101",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  },
+  "d05f64510e31": {
+    "device_id": "d05f64510e31",
+    "asset_name": "Jithu",
+    "asset_type": "Other",
+    "asset_id": "101",
+    "department": "",
+    "ward": "",
+    "maintenance_status": "none"
+  }
+}

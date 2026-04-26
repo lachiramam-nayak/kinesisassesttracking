@@ -20,14 +20,14 @@ pip install fastapi uvicorn httpx pillow python-dotenv starlette websockets
 uvicorn server:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-Backend runs at: `http://localhost:8000`
+Backend runs at: `https://assest-backend-z6uq.onrender.com`
 
 ### Frontend
 
 ```bash
 cd /app/frontend
 yarn install
-echo "REACT_APP_BACKEND_URL=http://localhost:8000" > .env
+echo "REACT_APP_BACKEND_URL=https://assest-backend-z6uq.onrender.com" > .env
 yarn start
 ```
 

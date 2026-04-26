@@ -22,7 +22,7 @@ import AssetTable from './AssetTable';
 import HistoricalTrace from './HistoricalTrace';
 import FloorPlanManager from './FloorPlanManager';
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'http://localhost:8000';
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'https://assest-backend-z6uq.onrender.com';
 
 const API = `${BACKEND_URL}/api`;
 const WS_URL = BACKEND_URL.replace('http', 'ws');
